@@ -1,9 +1,12 @@
 # Online Retail Customer Analysis and Churn Prediction
 
+End-to-end data analysis project combining customer segmentation, pricing analysis, and churn prediction to generate actionable business insights.
+
 ## Project Overview
+
 This project analyzes transactional e-commerce data to understand customer behavior, segment customers based on value, and predict churn using machine learning.
 
-The analysis follows an end-to-end workflow from data understanding and preparation to advanced analytics and predictive modeling.
+The analysis integrates customer segmentation, pricing patterns, and predictive modeling to support data-driven retention strategies.
 
 ---
 
