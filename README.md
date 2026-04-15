@@ -4,9 +4,16 @@ End-to-end data analysis project combining customer segmentation, pricing analys
 
 ## Project Overview
 
-This project analyzes transactional e-commerce data to understand customer behavior, segment customers based on value, and predict churn using machine learning.
+This project analyzes online retail transaction data to understand customer behavior, identify key revenue drivers, and predict customer churn.
 
-The analysis integrates customer segmentation, pricing patterns, and predictive modeling to support data-driven retention strategies.
+The analysis combines customer segmentation, pricing patterns, and predictive modeling to support data-driven retention strategies.
+
+## Key Highlights
+
+- Customer segmentation based on value and behavior  
+- Pricing analysis revealing volume-driven sales patterns  
+- Churn prediction model with ~67% accuracy  
+- Threshold optimization for flexible retention strategies  
 
 ---
 
